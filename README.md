@@ -17,7 +17,8 @@
 
   * REMITLY is a FinTech from Seattle (WA), founded in 2011 by **Matt Oppenheimer** who is its current CEO, **Josh Hugh** who is the current Chief Operating Officer and **Shivaas Guati** who works as engineer in the company. 
 
-    ***(Remitly WebPage. 12/11/2019) (Builtin WebPage. 12/11/2019)***
+    ***(Remitly WebPage. 12/11/2019)*** 
+    ***(Builtin WebPage. 12/11/2019)***
 
     "**Matt Oppenheimer**, 37, started Remitly in 2011 after running internet and mobile banking at Barclays in Kenya. He recruited engineer Shivaas Gulati and Josh Hug, an entrepreneur who had recently sold a startup to Amazon, as cofounders." 
     
@@ -59,8 +60,8 @@
     On average, the cost of ending small amounts of money to developing countries if around 7% in 2019, according to the World Bank’s Remittance Prices Worldwide database.
 
     ***(Remitly WebPage. 12/11/2019)***
-  ***(Forbes WebPage. 12/11/2019)***
-  ***(WorldBank WebPage. 12/12/2019)***
+    ***(Forbes WebPage. 12/11/2019)***
+    ***(WorldBank WebPage. 12/12/2019)***
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -144,16 +145,41 @@ What solution does this company offer that their competitors do not or cannot of
 
 * How is your company performing relative to competitors in the same domain?
 
+  * According to the following chart, This is the list of REMITLY's main competitors ***(Owler WebPage. 12/12/2019)***:
+
+  ![](https://github.com/amejiali/Homework1-FinTech/blob/master/Competitors_List.jpg?raw=true)
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) 
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+  * First of all, REMITLY should focus on consolidating its Money Transfer business as it is today. Then, with a vast bunch of customers relying on REMITLY services, they can offer new products, especially focused on immigrants in developed countries. Among these new products we can highlight the following ones:
+
+    * Mini and Micro loans with affordable rates
+    * Helping immigrants to build and maintain credit history
+    * Credit card
+    * Partnership with major e-commerces to pay with REMITLY directly
+    * On-line investments
 
 * Why do you think that offering this product or service would benefit the company?
 
+  * Having a broader offer of products, REMITLY can make much more money, retain its customers and maintain a leading position in the market.
+
 * What technologies would this additional product or service utilize? 
 
+  * Even when it's not especific the bounch of technologies currentlhy used by REMITLY, I think not only the current offer, but also the upcoming proposed products would utilize the following technologies/trends:
+
+    * Blockchain
+    * AI - Machine Learning
+    * Cloud Computing / Storage
+    * Cybersecurity
+    * IoT
+
 * Why are these technologies appropriate for your solution?
+
+  * Currently used or not, definitely these listed technologies/trends would give REMITLY a huge advantage over its competitors in the market, helping to maintain a leadership position.
+
+    These technologies are not only cool and fancy but also needed to support the business accordingly and to interact with the markets in a better way, giving to customers the best experience with confidence that everything is secure, reliable and well supported.
 
 ## References
 
